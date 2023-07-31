@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivoserra99" alt="ivoserra99" /></a> </p>
 
-- 🔭 Estoy trabajando actualmente en un proyecto academico de Henry [Artify](https://artify-production-bb4a.up.railway.app/)
+- 🔭 Estoy trabajando actualmente en el proyecto final academico de Henry [Artify](https://artify-production-bb4a.up.railway.app/)
 
 - 🌱 Estoy estudiando actualmente **Full Stack web Develop en Henry**
 
