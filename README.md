@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Un apasionado programador de Argentina</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivoserra99" alt="ivoserra99" /></a> </p>
 
@@ -26,11 +26,12 @@ Here are some ideas to get you started:
 
 - 📫 ¿Por donde puedes contactarme? **ivoozmarserra@gmail.com**
 
-- 📄 Know about my experiences [Tengo certificado en Coder-House como Desarrollador web Front-End, con tecnologias como React, JavaScript, Bootstrap, Node js.](Tengo certificado en Coder-House como Desarrollador web Front-End, con tecnologias como React, JavaScript, Bootstrap, Node js.)
+- 📄 Mis experiencias
+-  [Tengo certificado en Coder-House como Desarrollador web Front-End, con tecnologias como React, JavaScript, Bootstrap, Node js.]
 
 - ⚡ Actividades personales **Me gusta mucho el deporte, la vida sana y salir a andar en bici.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ivo-serra-287b41267/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ivo-serra-287b41267/" height="30" width="40" /></a>
 </p>
